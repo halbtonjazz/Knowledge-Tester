@@ -229,7 +229,7 @@ int main()
 
         cout << "\n4. W jakim jezyku programowania uzywa sie nawiasow klamrowych {} do oznaczenia blokow kodu" << endl;
         cout << "	a. C++" << endl;
-        cout << "	b. Java" << endl;
+        cout << "	b. Ruby" << endl;
         cout << "	c. Python" << endl;
         cout << "	d. HTML" << endl;
         cout << "\nWybierz odpowiedz: ";
